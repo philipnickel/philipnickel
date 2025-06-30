@@ -25,8 +25,6 @@ Master's student in **Mathematical Modelling and Computation** at DTU with a bac
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Numba](https://img.shields.io/badge/-Numba-00A3E0?style=flat-square&logo=numba&logoColor=white)
 ![PETSc](https://img.shields.io/badge/-PETSc-4B8BBE?style=flat-square&logo=petsc&logoColor=white)
-![OpenMP](https://img.shields.io/badge/-OpenMP-0051A8?style=flat-square&logo=openmp&logoColor=white)
-![MPI](https://img.shields.io/badge/-MPI-FF6B6B?style=flat-square&logo=mpi&logoColor=white)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 </div>
