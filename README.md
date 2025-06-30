@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Mathematical+Modelling+%26+Computation;Numerical+Methods+%26+HPC;Scientific+Computing+with+Python)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=philipnickel&color=green&style=flat-square&label=Profile+Views)
-
 </div>
 
 ## About
@@ -45,8 +43,6 @@ Master's student in **Mathematical Modelling and Computation** at DTU with a bac
 ## GitHub Activity
 
 <div align="center">
-
-![GitHub Contribution Grid](https://ghchart.rshah.org/philipnickel)
 
 ![philipnickel's Stats](https://github-readme-stats.vercel.app/api?username=philipnickel&theme=github&show_icons=true&hide_border=true&count_private=true)
 
