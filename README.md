@@ -7,9 +7,6 @@ Master's student in **Mathematical Modelling and Computation** at DTU. Specializ
 
 <div align="center">
 
-![philipnickel's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipnickel&show_icons=true&theme=transparent)
-
-
 ![PhilipNickel's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipnickel&show_icons=true&include_all_commits=true&rank_icon=GitHub&hide=issues,contribs&theme=transparent)
 
 
