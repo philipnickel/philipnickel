@@ -8,12 +8,13 @@ Master's student in **Mathematical Modelling and Computation** at DTU. Specializ
 <div align="center">
 
 ![philipnickel's Stats](https://github-readme-stats.vercel.app/api?username=philipnickel&theme=github&show_icons=true&hide_border=true&count_private=true)
-![philipnickel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![philipnickel's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipnickel&show_icons=true&theme=transparent)
 ![philipnickel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=philipnickel&theme=github&hide_border=true)
 
-![philipnickel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philipnickel&theme=github&show_icons=true&hide_border=true&layout=compact)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philipnickel)](https://github.com/philipnickel/github-readme-stats)
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=philipnickel&repo=github-readme-stats)](https://github.com/philipnickel/github-readme-stats)
 
 ## Projects
 
