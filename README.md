@@ -9,6 +9,10 @@ Master's student in **Mathematical Modelling and Computation** at DTU. Specializ
 
 ![philipnickel's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipnickel&show_icons=true&theme=transparent)
 
+
+![PhilipNickel's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipnickel&show_icons=true&include_all_commits=true)
+
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philipnickel)](https://github.com/philipnickel/github-readme-stats)
 </div>
 
