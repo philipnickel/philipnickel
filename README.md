@@ -5,13 +5,14 @@ Master's student in **Mathematical Modelling and Computation** at DTU. Specializ
 
 ## GitHub Activity
 
-<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=philipnickel&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philipnickel&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-![PhilipNickel's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipnickel&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues)
 
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philipnickel)](https://github.com/philipnickel/github-readme-stats)
-</div>
 
 
 ## Projects
