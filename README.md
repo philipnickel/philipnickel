@@ -1,49 +1,14 @@
-# Philip Korsager Nickel
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Mathematical+Modelling+%26+Computation;Numerical+Methods+%26+HPC;Scientific+Computing+with+Python)](https://git.io/typing-svg)
-
-</div>
-
 ## About
 
-Master's student in **Mathematical Modelling and Computation** at DTU with a background in Applied Mathematics. Specialized in numerical methods, scientific computing, and high-performance computing (HPC) with experience in mathematical modeling and algorithm development.
+Master's student in **Mathematical Modelling and Computation** at DTU. Specialized in numerical methods, scientific computing, and high-performance computing (HPC).
 
-## Technical Skills
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Numba](https://img.shields.io/badge/-Numba-00A3E0?style=flat-square&logo=numba&logoColor=white)
-![PETSc](https://img.shields.io/badge/-PETSc-4B8BBE?style=flat-square&logo=petsc&logoColor=white)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-</div>
-
-**Core Competencies:**
-- Numerical methods and algorithm development
-- Mathematical modeling and simulation
-- High-performance computing (HPC)
-- Scientific Python ecosystem 
-- Statistical analysis and data science
-- Machine learning and deep learning
-- Data analysis and optimization
 
 ## GitHub Activity
 
 <div align="center">
 
 ![philipnickel's Stats](https://github-readme-stats.vercel.app/api?username=philipnickel&theme=github&show_icons=true&hide_border=true&count_private=true)
-
+![philipnickel's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![philipnickel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=philipnickel&theme=github&hide_border=true)
 
 ![philipnickel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philipnickel&theme=github&show_icons=true&hide_border=true&layout=compact)
